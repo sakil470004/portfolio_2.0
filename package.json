@@ -2,7 +2,7 @@
   "private": true,
   "name": "Mynul's Portfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://sakil470004.github.io/portfolio_2.0",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
