@@ -24,7 +24,7 @@ class Contact extends Component {
         <div className="basic-contact">
           <Fade bottom duration={1000} distance="40px">
             <div className="contact-heading-div">
-              <div className="contact-heading-img-div">
+              <div style={{overflow:'hidden',height:'600px',borderRadius:'50%'}} className="contact-heading-img-div">
                 <img
                   src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
                   alt=""
@@ -69,7 +69,7 @@ class Contact extends Component {
                 </p>
                 <div className="blogsite-btn-div">
                   <Button
-                    text="Visit My Blogsite"
+                    text="Visit My Youtube Channel"
                     newTab={true}
                     href={blogSection.link}
                     theme={theme}

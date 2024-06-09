@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "Innovating with Next.js to craft end-to-end web solutions that drive sustainable and impactful change🚀",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1M_4gdTj9Ade_TJ3rHrJcu6hppIjlCLUg/view",
+  portfolio_repository: "https://github.com/sakil470004/portfolio_2.0",
   githubProfile: "https://github.com/sakil470004",
 };
 
@@ -608,7 +608,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Full Stack Development using next.js or React and deploy them on Firebase, Heruko , Vercel or Netlify. I love to create and contribute to open source projects. I have created many projects in the field of Full Stack Development, UI/UX, AI model and Competitive Programming.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -620,27 +620,27 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
+    // {
+    //   id: "neuro-symbolic-sudoku-solver",
+    //   name: "Neuro-Symbolic Sudoku Solver",
+    //   createdAt: "2023-07-02T00:00:00Z",
+    //   description: "Paper published in KDD KiML 2023",
+    //   url: "https://arxiv.org/abs/2307.00653",
+    // },
+    // {
+    //   id: "mdp-diffusion",
+    //   name: "MDP-Diffusion",
+    //   createdAt: "2023-09-19T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/mdp-diffusion/",
+    // },
+    // {
+    //   id: "consistency-models",
+    //   name: "Consistency Models",
+    //   createdAt: "2023-10-12T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/consistency-models/",
+    // },
   ],
 };
 
@@ -653,22 +653,22 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Youtube",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "I enjoy creating YouTube videos to share my knowledge with others. While learning new topics myself, I make many videos about what I've learned. Feel free to check out my videos!",
+    link: "https://www.youtube.com/channel/UCMqW8FVnQGasW0g3TYo0bPg",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
+    subtitle: "Poloanpol, Noakhali, Chittagonj, Bangladesh - 3829",
+    locality: "Noakhli",
     country: "USA",
-    region: "California",
-    postalCode: "95129",
+    region: "Asia",
+    postalCode: "3829",
     streetAddress: "Saratoga Avenue",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/WRPwEe7GuEsBut2S7",
   },
   phoneSection: {
     title: "",

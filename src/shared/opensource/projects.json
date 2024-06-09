@@ -2,72 +2,79 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
+      "name": "Battle Toys",
       "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "url": "https://battle-toys-5a066.web.app/",
+      "description": "Utilized React JS, React Router, Tailwind CSS, Daisy UI, Firebase Auth, MongoDB, and Express JS to create a dynamic platform with comprehensive toy listings and seller management Fn..Enhanced UX by providing a platform for sellers to securely add, update, and manage toy listings, a dynamic and engaging marketplace for children's toys.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        
+        {
+          "name":"Node JS",
+          "iconifyClass":"logos-nodejs"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "CSS 3",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Fighting School",
+      "createdAt": "2023-06-13T20:41:33Z",
+      "url": "",
+      "description": "🚀Utilized MERN Stack, Firebase Auth and Stripe to create a platform with distinct functionalities for admins, instructors, and students. Implemented responsive design with Dark/Light mode Fn..Streamlined user registration, login, course management, and payment processes, enhancing users. experience and accessibility.",
       "isFork": false,
       "languages": [
+       {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name":"Node JS",
+          "iconifyClass":"logos-nodejs"
+        },
+        {
+          "name": "CSS 3",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Parts Market,",
+      "createdAt": "2023-04-06T16:26:54Z",
+      "url": "https://github.com/sakil470004",
+      "description": "🔥 Implemented features for customers to select car parts based on details, allowed the client to add new parts and delete exported ones. Utilized pagination on the backend for faster data loading.",
       "isFork": false,
       "languages": [
+      {
+          "name": "Next Js",
+          "iconifyClass": "logos-react"
+        },
+        
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name":"Node JS",
+          "iconifyClass":"logos-nodejs"
         },
         {
-          "name": "CSS",
+          "name": "CSS 3",
           "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
+      "name": "Color Palette Generator",
       "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "url": "https://color-palette-71.netlify.app/",
+      "description": "🌀 Bookmark your favorite Color ,Lock the current Color ,See the similar Color ,See the saved bookmarks ,Single click to copy current color.",
       "isFork": false,
       "languages": [
         {
@@ -78,10 +85,7 @@
           "name": "CSS",
           "iconifyClass": "logos-css-3"
         },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
+    
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
@@ -90,32 +94,46 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Event Management",
+      "createdAt": "2022-11-26T17:56:07Z",
+      "url": "https://affectionate-colden-676c22.netlify.app/",
+      "description": "⚙️ Manage different type of events.",
       "isFork": false,
       "languages": [
+       {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name":"Node JS",
+          "iconifyClass":"logos-nodejs"
+        },
+        {
+          "name": "CSS 3",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "Store Management System",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://store-management-a6191.web.app/",
+      "description": "🙅‍♀️ Manage Stores items. Can added delete and edit items. Items can be manage based on role",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        
+        {
+          "name":"Node JS",
+          "iconifyClass":"logos-nodejs"
         },
         {
-          "name": "CSS",
+          "name": "CSS 3",
           "iconifyClass": "logos-css-3"
         }
       ]
